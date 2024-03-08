@@ -1,4 +1,9 @@
 
+/* on récupère la langue --------------------------------------- */
+const url = window.location.href;
+console.log(url);
+
+
 /* menu html --------------------------------------------------- */
 const menu = document.getElementById('menu');
 menu.innerHTML +=
