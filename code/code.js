@@ -3,7 +3,7 @@
 const url = window.location.href;
 const menu = document.getElementById('menu');
 
-if (url.includes("alexey-zharkov/ru")) {
+if (url.includes("alexey-zharkov.com/ru")) {
 
   console.log(url);
   console.log('RU');
@@ -78,7 +78,7 @@ if (url.includes("alexey-zharkov/ru")) {
 
 } 
 
-else if (url.includes("alexey-zharkov/en")) {
+else if (url.includes("alexey-zharkov.com/en")) {
 
   console.log(url);
   console.log('EN');
