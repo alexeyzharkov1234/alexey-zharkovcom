@@ -19,10 +19,10 @@ select {cursor:pointer;}
 ::placeholder {color: grey; }
 .opacite {opacity:0.35;}
 
-.derouler .top {display:flex; justify-content: space-between; align-items: center; padding:15px 0;  -webkit-user-select: none; -ms-user-select: none; user-select: none; }
+.derouler .top {/* display:flex; justify-content: space-between; align-items: center;*/ padding:15px 0;  -webkit-user-select: none; -ms-user-select: none; user-select: none; }
 .derouler .top:hover { cursor:pointer; }
-.derouler .top span {text-align:left; margin-right:30px;}
-.derouler .image {vertical-align:middle; width:15px;}
+.derouler .top span {text-align:left; margin-right:20px;}
+.derouler .image {vertical-align:middle; width:10px;}
 .derouler .contenu {padding:0 15px 10px 15px; text-align:left; }
 .derouler .contenu .radio {background:transparent; border:solid 2px white; color:white; padding:10px 15px; margin:15px 0; }
 .derouler .contenu .radio.selected { border:solid 2px var(--blue); }
