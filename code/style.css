@@ -6,6 +6,8 @@
     --blue: rgb(0, 115, 255);
     --green: rgb(120, 255, 210);
     --yellow: rgb(254, 172, 13);
+    --yellow2: rgb(253, 178, 26);
+    --yellow3: rgb(252, 150, 16);
   }
 
 /* global ------------------------------------------------- */
@@ -36,13 +38,24 @@ select {cursor:pointer;}
 #menu #globe {width:15px; padding-right:5px; padding-bottom:2px; vertical-align:middle;}
 #menu .sousmenu {position:absolute; top:64px; left:0; width:100%; z-index:3; background:var(--dark);  padding:30px 0; }
 
+#menubtn, #fermerbtn {display:none; height:18px; vertical-align:middle;}
+#sousmenumobile {display:none;}
+
 #sousmenuun a {width:200px; text-align:left; display:block; margin: 10px auto;  }
 #sousmenutrois a {width:80px; text-align:left; display:block; margin: 10px auto;  }
 
-@media screen and (max-width: 600px) {
+
+
+@media screen and (max-width: 950px) {
   #menu {  } 
-  #menu .menu {padding:15px 15px;}
+  #menu .menu {display:none; }
   #menu .sousmenu {padding-left:30px;}
+
+#menubtn {display:inline-block; padding:15px 20px;}
+#fermerbtn {padding:15px 20px;}
+#sousmenumobile {text-align:left; padding:80px 0 50px 0; background:var(--dark); position:absolute; top:48px; left:0; width:100%; z-index:3;   }
+#sousmenumobile a { margin:20px; display:block;  }
+
   #sousmenuun a, #sousmenutrois a {font-size:25px; margin: 10px auto; width:auto; font-weight:700;}
   }
 
@@ -50,19 +63,30 @@ select {cursor:pointer;}
 /* logo --------------------------------------------------- */
 #logo {width:120px; position:absolute; top:10px; left:10px; z-index:50; padding:10px; background:black; margin:10px;  }
 #logo img {width:100%;   }
+@media screen and (max-width: 950px) {
+  #logo {width:80px;}
+}
 
 
 /* page ------------------------------------------------- */
-.page .intro {padding:120px 0 180px 0; margin:0; text-align:center;  }
-.page .blocgauche {display:inline-block; width:450px; vertical-align:middle; margin-right:100px; }
-.page .intro .grandtitre {font-size:60px; font-weight:700; margin:0 0 20px 0;  } 
-.page .intro .soustitre {color:black; font-size:16px; line-height:140%; opacity:0.8; margin:0 auto 30px auto;  font-weight:600; }
-.page .intro img { width:450px; vertical-align:middle; }
+.page .intro {padding:100px 0 200px 0; margin:0; text-align:center;  }
+.page .blocgauche {display:inline-block; width:600px; vertical-align:middle; margin:50px 30px 50px 30px; }
+.page .intro .grandtitre {font-size:65px; font-weight:700; margin:0 0 25px 0;  } 
+.page .intro .soustitre {width:80%; color:black; font-size:16px; line-height:140%; opacity:0.8; margin:0 auto 25px auto;  font-weight:600; }
+.page .intro img { width:600px; vertical-align:middle; margin:0 30px 0 30px;  }
 
+.page .btn {background:var(--yellow); display:inline-block; padding:20px 25px; margin:20px; line-height:100%; font-size:15px; color:black; font-weight:600; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
+.page .btn:hover {background:var(--yellow2); cursor:pointer;}
 
+@media screen and (max-width: 1000px) {
+  .page .intro {padding-top:50px;  }
+  }
 
-.page .btn {background:var(--yellow); display:inline-block; border-radius:10px; padding:20px 25px; margin:10px; line-height:100%; font-size:15px; color:black; font-weight:700; }
-
+@media screen and (max-width: 700px) {
+.page .blocgauche {width:90%; }
+.page .intro .grandtitre {font-size:55px;  } 
+.page .intro img { width:80%; }
+}
 
 
 /* faq ------------------------------------------------- */
