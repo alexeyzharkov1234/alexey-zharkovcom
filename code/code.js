@@ -141,6 +141,7 @@ footer.innerHTML +=
 <a href="legal.html">Mentions légales</a>
 <a href="cgv.html">CGV</a>
 <a href="privacy.html">Confidentialité</a>
+<a href="https://watermelon.fr">Développé par Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
 

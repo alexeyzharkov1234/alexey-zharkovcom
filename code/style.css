@@ -114,21 +114,13 @@ select {cursor:pointer;}
 
 
 /* footer ------------------------------------------------ */
-#footer{ width:100%; text-align:center; padding:20px 0; color:black; font-size:14px; }
-#footer a { padding: 0 20px; font-size:14px;  color:black;}
+#footer{ width:100%; text-align:center; padding:20px 0; background:black; font-size:14px; }
+#footer a { padding: 0 20px; font-size:14px; }
 #footer #copyright { display:inline-block; padding: 0 20px;  }
-#footer .contact { padding:100px 0 100px 0; margin:0; text-align:center; margin-bottom:30px; background: white; color:black; line-height:145%;   }
-#footer .contact .titre { width:700px; font-size:40px; line-height:125%; font-weight:800; margin:0 auto 25px auto;  }
-#footer .contact .texte { width:700px; margin:0 auto 50px auto; font-size:20px; line-height:140%; opacity:0.65; }
-#footer .contact .bloc { display:inline-block; margin:0 35px; }
-#footer .contact .bloc .titre { width:auto; font-size:28px; }
 
 @media screen and (max-width: 750px) {
-  #footer a { margin: 0 15px;  }
-  #footer .contact { padding:50px 20px 50px 20px;  }
-  #footer .contact .titre { width:auto;  font-size:30px;}
-  #footer .contact .texte {  width:auto; font-size:16px; }
-  #footer .contact .bloc .titre { font-size:20px; }
+  #footer a { padding:10px 20px; text-align:left; display:block;  }
+  #footer #copyright { padding: 10px 20px; text-align:left; display:block;  }
 }
 
 
