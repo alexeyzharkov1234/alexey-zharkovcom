@@ -5,6 +5,7 @@ const menu = document.getElementById('menu');
 
 if (url.includes("alexey-zharkov/ru")) {
 
+  console.log(url);
   console.log('RU');
   
   menu.innerHTML +=
@@ -79,6 +80,7 @@ if (url.includes("alexey-zharkov/ru")) {
 
 else if (url.includes("alexey-zharkov/en")) {
 
+  console.log(url);
   console.log('EN');
   
   menu.innerHTML +=
@@ -153,6 +155,7 @@ English
 
 else { 
 
+  console.log(url);
   console.log('FR');
 
 menu.innerHTML +=
