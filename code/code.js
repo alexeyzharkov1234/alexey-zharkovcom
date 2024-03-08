@@ -25,9 +25,9 @@ Français
 
 
 <div id="sousmenutrois" class="sousmenu">
-<a href="https://alexey-zharkov.com/en">English</a>
-<a href="https://alexey-zharkov.com/">Français</a>
-<a href="https://alexey-zharkov.com/ru">Русский</a>
+<a href="/en">English</a>
+<a href="index.html">Français</a>
+<a href="/ru">Русский</a>
 </div>
 
 <div id="sousmenumobile">
