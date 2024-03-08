@@ -4,6 +4,8 @@ const url = window.location.href;
 const menu = document.getElementById('menu');
 
 if (url.includes("alexey-zharkov/ru")) {
+
+  console.log('RU');
   
   menu.innerHTML +=
 `
@@ -76,6 +78,8 @@ if (url.includes("alexey-zharkov/ru")) {
 } 
 
 else if (url.includes("alexey-zharkov/en")) {
+
+  console.log('EN');
   
   menu.innerHTML +=
 `
@@ -148,6 +152,8 @@ English
 }
 
 else { 
+
+  console.log('FR');
 
 menu.innerHTML +=
 `
