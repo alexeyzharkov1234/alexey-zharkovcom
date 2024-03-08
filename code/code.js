@@ -26,7 +26,7 @@ Français
 
 <div id="sousmenutrois" class="sousmenu">
 <a href="/en">English</a>
-<a href="index.html">Français</a>
+<a href="/index.html">Français</a>
 <a href="/ru">Русский</a>
 </div>
 
