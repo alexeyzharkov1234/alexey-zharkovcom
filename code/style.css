@@ -84,7 +84,7 @@ select {cursor:pointer;}
 
 @media screen and (max-width: 700px) {
 .page .blocgauche {width:90%; margin: 50px 0 50px 0; }
-.page .intro .grandtitre {font-size:55px;  } 
+.page .intro .grandtitre {font-size:50px;  } 
 .page .intro img { width:80%; }
 }
 
