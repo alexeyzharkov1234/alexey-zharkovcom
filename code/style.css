@@ -122,7 +122,7 @@ select {cursor:pointer;}
 #footer a { padding: 0 20px; font-size:14px; }
 #footer #copyright { display:inline-block; padding: 0 20px;  }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 1000px) {
   #footer a { padding:10px 20px; text-align:left; display:block;  }
   #footer #copyright { padding: 10px 20px; text-align:left; display:block;  }
 }
