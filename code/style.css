@@ -84,8 +84,9 @@ select {cursor:pointer;}
 .page .intro .infos div {margin:15px 0; }
 .page .intro .infos a {color:black;}
 
-.page .intro .infos .prixtexte {width:74%; display:inline-block; font-weight:700; margin:10px 0;}
-.page .intro .infos .prix {width:25%; display:inline-block; text-align:right; margin:10px 0;}
+.page .intro table {color:black; width:100%;}
+.page .intro table th {text-align:left; padding:7px 0;}
+.page .intro table td {text-align:right; padding:7px 0;}
 
 @media screen and (max-width: 1130px) {
 .page .intro {margin:80px 0 80px 0;}
