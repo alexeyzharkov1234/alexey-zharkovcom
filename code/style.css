@@ -15,10 +15,9 @@ a{color:white; text-decoration:none; cursor:pointer; }
 a:hover {cursor:pointer !important;}
 select {cursor:pointer;}
 ::placeholder {color: grey; }
-.opacite {opacity:0.35;}
 
-.btn {/*border-radius:10px;*/ background:var(--yellow); border-bottom:solid 3px var(--yellow2); display:inline-block; padding:20px 25px; margin:10px; line-height:130%; font-size:15px; color:black; font-weight:600; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
-.btn img {  padding:0 !important; display:inline-block !important;  width:8px !important; margin:0 0 2.5px 20px !important; }
+.btn { background:var(--yellow); border-bottom:solid 4px var(--yellow2); display:inline-block; padding:15px 20px; line-height:130%; font-size:15px; color:black; font-weight:600; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
+.btn img {  padding:0; display:inline-block;  width:8px; margin:0 0 2.5px 20px; vertical-align:middle; }
 .btn:hover {background:var(--yellow2); cursor:pointer;}
 
 .derouler .top {/* display:flex; justify-content: space-between; align-items: center;*/ padding:15px 0;  -webkit-user-select: none; -ms-user-select: none; user-select: none; }
@@ -72,25 +71,29 @@ select {cursor:pointer;}
 
 
 /* page ------------------------------------------------- */
-.page .intro {margin:80px 0 80px 0; text-align:center;  }
-.page .blocgauche {display:inline-block; width:600px; vertical-align:middle; margin:50px 30px; }
-.page .intro .grandtitre {font-size:65px; font-weight:700; margin:0 0 25px 0;  } 
-.page .intro .soustitre {width:80%; color:black; font-size:16px; line-height:140%; opacity:0.8; margin:0 auto 40px auto;  font-weight:600; text-align:left; }
-.page .intro img { width:600px; vertical-align:middle; margin:0 30px 0 30px;  }
+.page .intro {margin:120px 0 250px 0; text-align:center;}
+.page .intro .blocgauche {text-align:left; display:inline-block; width:500px; vertical-align:top; margin:0 30px; }
+.page .intro .titre { font-size:65px; font-weight:700; margin:0 0 40px 0;  } 
+.page .intro .texte { color:black; font-size:16px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
+.page .intro .cgv { color:black; font-size:12px; line-height:140%; margin:10px auto 20px auto;  }
+.page .intro .cgv a { text-decoration:underline; color:black; }
+.page .intro .image { width:500px; vertical-align:top; margin:0 40px;  }
+.page .intro .btn {margin:10px 20px 10px 0; }
+.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 4px rgba(0,0,0,0.1); color:black; padding:15px 30px; line-height:145%; }
+.page .intro .infos div {margin:15px 0; }
 
-@media screen and (max-width: 1300px) {
-  .page .intro {margin:50px 0 200px 0;  }
-  }
-
-@media screen and (max-width: 700px) {
-.page .blocgauche {width:90%; margin: 50px 0}
-.page .intro .grandtitre {font-size:50px;  } 
-.page .intro .soustitre {width:90%; }
-.page .intro img { width:80%; }
+@media screen and (max-width: 1130px) {
+.page .intro {margin:80px 0 80px 0;}
+.page .intro .blocgauche {text-align:center; }
+.page .intro .image { margin:40px; }
+.page .intro .btn {margin:10px; }
 }
 
-@media screen and (max-width: 450px) {
-  .page .intro .grandtitre {font-size:11vw;  }
+@media screen and (max-width: 600px) {
+  .page {margin:0 20px;}
+  .page .intro .blocgauche {width:100%; margin:0; }
+  .page .intro .titre { font-size:45px;  } 
+  .page .intro .image { width:100%; margin:40px 0; }
   }
 
 
