@@ -81,6 +81,7 @@ select {cursor:pointer;}
 .page .intro .btn {margin:10px 20px 10px 0; }
 .page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 4px rgba(0,0,0,0.1); color:black; padding:15px 30px; line-height:145%; }
 .page .intro .infos div {margin:15px 0; }
+.page .intro .infos a {color:black;}
 
 @media screen and (max-width: 1130px) {
 .page .intro {margin:80px 0 80px 0;}
