@@ -95,6 +95,7 @@ select {cursor:pointer;}
   .page .intro .blocgauche {width:100%; margin:0; }
   .page .intro .titre { font-size:45px;  } 
   .page .intro .image { width:100%; margin:40px 0; }
+  .page .intro .btn {width:100%; margin:10px 0; }
   }
 
 
