@@ -84,7 +84,7 @@ select {cursor:pointer;}
 .page .intro .infos div {margin:15px 0; }
 .page .intro .infos a {color:black;}
 
-.page .intro table {color:black; width:100%;}
+.page .intro table {color:black; width:100%; margin:5px 0;}
 .page .intro table th {text-align:left; padding:7px 15px 7px 0;}
 .page .intro table td {text-align:right; padding:7px 0; white-space: nowrap;}
 
