@@ -1,0 +1,153 @@
+
+/* variables ------------------------------------------------- */
+:root {
+   --dark: rgb(30, 30, 30); 
+    --grey: rgb(188, 188, 188);
+    --green: rgb(120, 255, 210);
+    --yellow: rgb(254, 172, 13);
+    --yellow2: rgb(253, 147, 26);
+  }
+
+/* global ------------------------------------------------- */
+:root{background:var(--grey);}
+body,html{ background-color: var(--grey); color:white; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; scroll-behavior: smooth; margin:0; padding:0; font-size:16px; font-weight:500;   }
+a{color:white; text-decoration:none; cursor:pointer; }
+a:hover {cursor:pointer !important;}
+select {cursor:pointer;}
+::placeholder {color: grey; }
+
+.btn { background:var(--yellow); border-bottom:solid 4px var(--yellow2); display:inline-block; padding:15px 25px; line-height:130%; font-size:15px; color:black; font-weight:600; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
+.btn img {  padding:0; display:inline-block;  width:8px; margin:0 0 2.5px 20px; vertical-align:middle; }
+.btn:hover {background:var(--yellow2); cursor:pointer;}
+
+.derouler .top {/* display:flex; justify-content: space-between; align-items: center;*/ padding:15px 0;  -webkit-user-select: none; -ms-user-select: none; user-select: none; }
+.derouler .top:hover { cursor:pointer; }
+.derouler .top span {text-align:left; margin-right:20px;}
+.derouler .image {vertical-align:middle; width:10px;}
+.derouler .contenu {padding:0 15px 10px 15px; text-align:left; }
+.derouler .contenu .radio {background:transparent; border:solid 2px white; color:white; padding:10px 15px; margin:15px 0; }
+.derouler .contenu .radio.selected { border:solid 2px var(--blue); }
+.derouler .contenu, .derouler .cacher {display:none;}
+
+@media screen and (max-width: 600px) { 
+  /* .titre {width:85%; margin:50px auto 30px auto;  } */
+  }
+
+/* menu ----------------------------------------------------- */
+#menu { position:relative; z-index:1; text-align:right; background:black; padding-right:10px; font-weight:600; }
+#menu .menu {display:inline-block; vertical-align:middle; text-align:center; padding:15px 20px; cursor:pointer; vertical-align:middle; font-size:14px; line-height:100%; line-height:125%;  }
+#menu #globe {width:15px; padding-right:5px; padding-bottom:2px; vertical-align:middle;}
+#menu .sousmenu {position:absolute; top:64px; left:0; width:100%; z-index:3; background:var(--dark);  padding:30px 0; }
+
+#menubtn, #fermerbtn {display:none; height:18px; vertical-align:middle;}
+#sousmenumobile {display:none;}
+
+#sousmenuun a {width:200px; text-align:left; display:block; margin: 10px auto;  }
+#sousmenutrois a {width:80px; text-align:left; display:block; margin: 10px auto;  }
+
+
+
+@media screen and (max-width: 950px) {
+  #menu {  } 
+  #menu .menu {display:none; }
+  #menu .sousmenu {padding-left:30px;}
+
+#menubtn {display:inline-block; padding:15px 20px;}
+#fermerbtn {padding:15px 20px;}
+#sousmenumobile {text-align:left; padding:80px 0 50px 0; background:var(--dark); position:absolute; top:48px; left:0; width:100%; z-index:3;   }
+#sousmenumobile a { margin:20px; display:block;  }
+#sousmenumobile .derouler .top {padding: 0; margin:20px;}
+
+  #sousmenuun a, #sousmenutrois a {font-size:25px; margin: 10px auto; width:auto; font-weight:700;}
+  }
+
+
+/* logo --------------------------------------------------- */
+#logo {width:120px; position:absolute; top:0; left:10px; z-index:50; padding:10px; background:black; margin:10px;  }
+#logo img {width:100%;   }
+@media screen and (max-width: 950px) {
+  #logo {width:80px; top:0;}
+}
+
+
+/* page ------------------------------------------------- */
+.page .intro {margin:120px 0 250px 0; text-align:center;}
+.page .intro .blocgauche {text-align:left; display:inline-block; width:500px; vertical-align:top; margin:0 30px; }
+.page .intro .titre { font-size:65px; font-weight:700; margin:0 0 40px 0;  text-shadow: 0 0 10px rgba(0,0,0,0.33); } 
+.page .intro .texte { color:black; font-size:16px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
+.page .intro .cgv { color:black; font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
+.page .intro .cgv a { text-decoration:underline; color:black; }
+.page .intro .image { width:500px; vertical-align:top; margin:0 40px;  }
+.page .intro .btn {margin:10px 20px 10px 0; }
+
+.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 4px rgba(0,0,0,0.1); color:black; padding:15px 30px; line-height:145%; }
+.page .intro .infos div {margin:15px 0; }
+.page .intro .infos a {color:black;}
+
+.page .intro table {color:black; width:100%; margin:5px 0;}
+.page .intro table th {text-align:left; padding:7px 15px 7px 0;}
+.page .intro table td {text-align:right; padding:7px 0; white-space: nowrap;}
+
+@media screen and (max-width: 1130px) {
+.page .intro {margin:80px 0 80px 0;}
+.page .intro .blocgauche {text-align:center; }
+.page .intro .image { margin:40px; }
+.page .intro .btn {margin:10px; }
+}
+
+@media screen and (max-width: 600px) {
+  .page {margin:0 20px;}
+  .page .intro .blocgauche {width:100%; margin:0; }
+  .page .intro .titre { font-size:45px;  } 
+  .page .intro .image { width:100%; margin:40px 0; }
+  .page .intro .btn {display:block; margin:15px 0; }
+  }
+
+
+/* faq ------------------------------------------------- */
+#faq {padding:100px 0;  }
+#faq .titre {text-align:center; padding:0; margin:0; margin-bottom:30px; font-size:40px; line-height:125%; font-weight:700;}
+#faq .derouler {width:900px; border-bottom:solid rgb(50,50,50) 1px; margin-left:auto; margin-right:auto;}
+#faq .derouler .top {padding:15px 0; font-size:20px; font-weight:700; line-height:140%;}
+#faq .derouler .contenu {padding:0 0 15px 0; line-height:155%; }
+
+@media screen and (max-width: 950px) { 
+#faq .derouler {width:auto; background:transparent; padding:10px 20px; }
+#faq {padding:50px 0;  }
+#faq .titre {font-size:30px; }
+}
+
+@media screen and (max-width: 700px) { 
+  #faq .derouler .top { font-size:16px; line-height:150%;}
+  }
+
+
+/* footer ------------------------------------------------ */
+#footer{ width:100%; text-align:center; padding:20px 0; background:black; font-size:14px; }
+#footer a { padding: 0 20px; font-size:14px; }
+#footer #copyright { display:inline-block; padding: 0 20px;  }
+
+@media screen and (max-width: 1000px) {
+  #footer a { padding:10px 20px; text-align:left; display:block;  }
+  #footer #copyright { padding: 10px 20px; text-align:left; display:block;  }
+}
+
+
+
+
+
+/* texte ----------------------------------------------- */
+#texte {width:800px; margin-left:auto; margin-right:auto; text-align:left; }
+#texte .grandtitre {font-size:55px;  width:750px; text-align:left; padding:0; margin:60px 0 0 0; line-height:115%; font-weight:700; }
+#texte .titre {font-size:30px; text-align:left; padding:0; margin:50px 0 20px 0;  }
+#texte .texte {padding:0; margin:15px 0;  }
+#texte a {border-bottom:solid 2px white;}
+#texte a:hover {border-bottom:solid 2px transparent; cursor:pointer;}
+
+@media screen and (max-width: 900px) { 
+  #texte {width:90%; }
+  #texte .grandtitre {width:90%; font-size:35px; }
+  }
+
+
+
