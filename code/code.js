@@ -1,12 +1,11 @@
 
-/* menu html --------------------------------------------------- */
+/* langues menu et footer --------------------------------------------------- */
 const url = window.location.href;
 const menu = document.getElementById('menu');
+const footer = document.getElementById('footer');
 
 if (url.includes("alexey-zharkov.com/ru")) {
 
-  console.log(url);
-  console.log('RU');
   
   menu.innerHTML +=
 `
@@ -76,12 +75,29 @@ if (url.includes("alexey-zharkov.com/ru")) {
 
 `;
 
-} 
+
+/* ----------------------------------------------------------------------------------------------- */
+
+
+footer.innerHTML +=
+`
+
+<a href="legal.html">Правовая информация</a>
+<a href="cgv.html">Общие условия продажи</a>
+<a href="privacy.html">Конфиденциальность</a>
+<a href="contact.html">Контакт</a>
+<a href="https://watermelon.fr">Разработано Watermelon</a>
+
+<div id="copyright">© <span id="annee"></span> AZ Gestion</div>
+
+    `;
+
+
+}
+
+/* ----------------------------------------------------------------------------------------------- */
 
 else if (url.includes("alexey-zharkov.com/en")) {
-
-  console.log(url);
-  console.log('EN');
   
   menu.innerHTML +=
 `
@@ -151,12 +167,28 @@ English
 
 `;
 
+/* ----------------------------------------------------------------------------------------------- */
+
+
+footer.innerHTML +=
+`
+
+<a href="legal.html">Legal Mentions</a>
+<a href="cgv.html">General Terms and Conditions of Sale</a>
+<a href="privacy.html">Privacy Policy</a>
+<a href="contact.html">Contact Us</a>
+<a href="https://watermelon.fr">Developed by Watermelon</a>
+
+<div id="copyright">© <span id="annee"></span> AZ Gestion</div>
+
+    `;
+
+
 }
 
-else { 
+/* ----------------------------------------------------------------------------------------------- */
 
-  console.log(url);
-  console.log('FR');
+else { 
 
 menu.innerHTML +=
 `
@@ -226,13 +258,8 @@ Français
 
 `;
 
-}
+/* ----------------------------------------------------------------------------------------------- */
 
-
-
-
-/* footer ------------------------------------------------ */
-const footer = document.getElementById('footer');
 
 footer.innerHTML +=
 `
@@ -246,6 +273,13 @@ footer.innerHTML +=
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
 
     `;
+
+
+}
+
+
+/* ----------------------------------------------------------------------------------------------- */
+
 
 
 
