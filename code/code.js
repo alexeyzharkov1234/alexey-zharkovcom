@@ -100,6 +100,10 @@ if (url.includes("alexey-zharkov.com/ru")) {
 footer.innerHTML +=
 `
 
+<img src="/img/bottom.svg">
+
+<div class="bloc">
+
 <a href="/ru/legal.html">Правовая информация</a>
 <a href="/ru/cgv.html">Общие условия продажи</a>
 <a href="/ru/privacy.html">Конфиденциальность</a>
@@ -107,6 +111,8 @@ footer.innerHTML +=
 <a href="https://watermelon.fr">Разработано Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
+
+</div>
 
     `;
 
@@ -209,6 +215,10 @@ English
 footer.innerHTML +=
 `
 
+<img src="/img/bottom.svg">
+
+<div class="bloc">
+
 <a href="/en/legal.html">Legal Mentions</a>
 <a href="/en/cgv.html">General Terms and Conditions of Sale</a>
 <a href="/en/privacy.html">Privacy Policy</a>
@@ -216,6 +226,8 @@ footer.innerHTML +=
 <a href="https://watermelon.fr">Developed by Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
+
+</div>
 
     `;
 
