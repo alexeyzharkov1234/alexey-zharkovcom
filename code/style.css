@@ -105,7 +105,7 @@ select {cursor:pointer;}
 }
 
 @media screen and (max-width: 600px) {
-  .page {margin:0 20px;}
+  .page {margin:0;}
   .page .intro .blocgauche {width:100%; margin:0; }
   .page .intro .titre { font-size:45px;  } 
   .page .intro .image { width:100%; margin:40px 0; }
@@ -149,7 +149,7 @@ select {cursor:pointer;}
 /* texte ----------------------------------------------- */
 #texte {width:800px; margin:100px auto; text-align:left; font-size:16px; }
 #texte .grandtitre {font-size:55px;  width:750px; text-align:left; padding:0; margin:0 0 40px 0; line-height:115%; font-weight:700; text-shadow: 0 0 10px rgba(0,0,0,0.33); }
-#texte .titre {font-size:30px; font-weight:700; text-align:left; padding:0; margin:50px 0 20px 0; color:black;  }
+#texte .titre {font-size:30px; font-weight:700; text-align:left; padding:0; margin:50px 0 20px 0; color:black; text-transform: capitalize; }
 #texte .texte {padding:0; margin:30px 0; color:black; line-height:140%; }
 #texte a {border-bottom:solid 2px white;}
 #texte a:hover {border-bottom:solid 2px transparent; cursor:pointer;}
