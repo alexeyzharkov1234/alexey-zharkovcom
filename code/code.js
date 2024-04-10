@@ -318,6 +318,10 @@ Français
 footer.innerHTML +=
 `
 
+<img src="/img/bottom.svg">
+
+<div class="bloc">
+
 <a href="/fr/legal.html">Mentions légales</a>
 <a href="/fr/cgv.html">CGV</a>
 <a href="/fr/privacy.html">Confidentialité</a>
@@ -325,6 +329,9 @@ footer.innerHTML +=
 <a href="https://watermelon.fr">Développé par Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
+
+</div>
+
 
     `;
 
