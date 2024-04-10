@@ -80,7 +80,7 @@ select {cursor:pointer;}
 
 
 /* page ------------------------------------------------- */
-.page .intro {margin:120px 0 250px 0; text-align:center;}
+.page .intro {margin:120px 0 120px 0; text-align:center;}
 .page .intro .blocgauche {text-align:left; display:inline-block; width:500px; vertical-align:top; margin:0 30px; }
 .page .intro .titre { font-size:65px; font-weight:700; margin:0 0 40px 0;  text-shadow: 0 0 10px rgba(0,0,0,0.33);  } 
 .page .intro .texte { color:black; font-size:16px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
