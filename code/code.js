@@ -263,7 +263,7 @@ Français
 <a href="/fr/domaine-affaires.html">Droit des affaires</a>
 <a href="/fr/domaine-consommation.html">Droit de la consommation</a>
 <a href="/fr/domaine-penal.html">Droit pénal</a>
-<a href="/fr/domaine-admninistratif.html">Droit administratif</a>
+<a href="/fr/domaine-administratif.html">Droit administratif</a>
 <a href="/fr/domaine-fiscal.html">Droit fiscal</a>
 </div>
 
@@ -293,7 +293,7 @@ Français
 <a href="/fr/domaine-affaires.html">Droit des affaires</a>
 <a href="/fr/domaine-consommation.html">Droit de la consommation</a>
 <a href="/fr/domaine-penal.html">Droit pénal</a>
-<a href="/fr/domaine-admninistratif.html">Droit administratif</a>
+<a href="/fr/domaine-administratif.html">Droit administratif</a>
 <a href="/fr/domaine-fiscal.html">Droit fiscal</a>
 </div>
 
