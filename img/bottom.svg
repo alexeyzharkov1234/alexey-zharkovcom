@@ -5,12 +5,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 752 423"
-   style="enable-background:new 0 0 752 423;"
+   viewBox="0 0 948 423"
    xml:space="preserve"
    id="svg58"
    sodipodi:docname="bottom.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   width="948"
+   height="423"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -172,9 +173,9 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
-   inkscape:zoom="0.53129857"
-   inkscape:cx="286.09149"
-   inkscape:cy="308.67766"
+   inkscape:zoom="0.4481382"
+   inkscape:cx="528.85471"
+   inkscape:cy="100.41545"
    inkscape:window-width="1440"
    inkscape:window-height="847"
    inkscape:window-x="0"
@@ -196,7 +197,8 @@
 			
 		<g
    id="BACKGROUND"
-   style="fill:#c3bdad;fill-opacity:1">
+   style="fill:#c3bdad;fill-opacity:1"
+   transform="scale(1.2606383,1)">
 	<rect
    style="fill:#c3bdad;fill-opacity:1"
    width="752"
@@ -208,32 +210,39 @@
    style="fill:#e8464d;fill-opacity:1"
    d="M 627.969,364.593 C 627.969,296.091 683.5,240.562 752,240.562 v -30.03 c -85.085,0 -154.061,68.975 -154.061,154.061 0,85.086 68.976,154.061 154.061,154.061 v -30.03 c -68.5,0 -124.031,-55.532 -124.031,-124.031 z"
    id="path1"
-   clip-path="url(#clipPath83)" /><path
+   clip-path="url(#clipPath83)"
+   transform="translate(196)" /><path
    style="fill:#000000;fill-opacity:1"
    d="m 676.327,364.593 c 0,-41.794 33.879,-75.675 75.673,-75.675 v -18.322 c -51.913,0 -93.997,42.083 -93.997,93.997 0,51.913 42.083,93.997 93.997,93.997 v -18.322 c -41.794,0 -75.673,-33.881 -75.673,-75.675 z"
    id="path2"
-   clip-path="url(#clipPath82)" /><path
+   clip-path="url(#clipPath82)"
+   transform="translate(196)" /><path
    style="fill:#e8464d;fill-opacity:1"
    d="m 149.946,423 c 1.956,-52.244 44.903,-94.004 97.621,-94.004 v -33.768 c 0,-53.964 -43.744,-97.713 -97.711,-97.713 -53.967,0 -97.713,43.749 -97.713,97.713 L 52.14,423 Z"
    id="path3"
-   clip-path="url(#clipPath76)" /><path
+   clip-path="url(#clipPath76)"
+   transform="translate(32)" /><path
    style="fill:#d1cec7;fill-opacity:1"
    d="m 247.567,423 v -94.004 c -52.717,0 -95.665,41.76 -97.621,94.004 z"
    id="path4"
-   clip-path="url(#clipPath75)" /><path
+   clip-path="url(#clipPath75)"
+   transform="translate(32)" /><path
    style="fill:#31425e;fill-opacity:1"
    d="M 489.467,238.695 V 0 h -85.304 v 123.912 c 0,47.113 -38.193,85.304 -85.304,85.304 v 29.48 c 0,47.11 38.191,85.303 85.304,85.303 47.114,-0.001 85.304,-38.194 85.304,-85.304 z"
    id="path5"
-   clip-path="url(#clipPath80)" /><path
+   clip-path="url(#clipPath80)"
+   transform="translate(108)" /><path
    style="fill:#d1cec7;fill-opacity:1"
    d="m 233.557,0 v 123.912 c 0,47.113 38.191,85.304 85.304,85.304 V 0 Z"
    id="path6"
-   clip-path="url(#clipPath79)" /><path
+   clip-path="url(#clipPath79)"
+   transform="translate(108)" /><path
    style="fill:#000000;fill-opacity:1"
    d="M 404.164,123.912 V 0 H 318.86 v 209.215 c 47.111,0 85.304,-38.19 85.304,-85.303 z"
    id="path7"
-   clip-path="url(#clipPath78)" /><ellipse
-   transform="rotate(-44.258571)"
+   clip-path="url(#clipPath78)"
+   transform="translate(108)" /><ellipse
+   transform="rotate(-44.258571,54,-132.79121)"
    style="fill:#d1cec7;fill-opacity:1;stroke-width:1"
    cx="256.27643"
    cy="439.54291"
@@ -244,7 +253,8 @@
    style="fill:#fd931a;fill-opacity:1"
    d="M 538.47,89.014 C 525.246,75.443 507.579,68.84 489.92,69.13 l 0.764,133.643 c 16.588,-0.27 33.171,-6.612 46.055,-19.166 26.603,-25.924 27.378,-68.273 1.731,-94.593 z"
    id="path8"
-   clip-path="url(#clipPath58)" /><g
+   clip-path="url(#clipPath58)"
+   transform="translate(108)" /><g
    clip-path="url(#SVGID_00000129186441618515793110000010375839872262253997_)"
    id="g11"
    style="fill:#fd931a;fill-opacity:1">
@@ -343,7 +353,8 @@
 				</g><g
    clip-path="url(#SVGID_00000129186441618515793110000010375839872262253997_)"
    id="g29"
-   style="fill:#000000;fill-opacity:1">
+   style="fill:#000000;fill-opacity:1"
+   transform="translate(148)">
 			<rect
    x="519.28601"
    y="349.01901"
@@ -375,7 +386,8 @@
 		</g><g
    id="g55"
    clip-path="url(#clipPath61)"
-   style="fill:#fd931a;fill-opacity:1">
+   style="fill:#fd931a;fill-opacity:1"
+   transform="translate(170,25.339453)">
 				<g
    id="g31"
    style="fill:#fd931a;fill-opacity:1">
@@ -511,14 +523,16 @@
    width="246.976"
    height="9.7489996"
    id="rect56"
-   clip-path="url(#clipPath86)" /><rect
+   clip-path="url(#clipPath86)"
+   transform="translate(32)" /><rect
    x="214.339"
    y="383.935"
    style="fill:#000000;fill-opacity:1"
    width="33.319"
    height="9.7489996"
    id="rect57"
-   clip-path="url(#clipPath85)" />
+   clip-path="url(#clipPath85)"
+   transform="translate(32)" />
 			
 		
 </svg>
