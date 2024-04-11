@@ -256,15 +256,15 @@ Français
 <div id="sousmenuun" class="sousmenu">
 <a href="/fr/domaine-famille.html">Droit de la famille</a>
 <a href="/fr/domaine-visas.html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href="/fr/domaine-titresejour.html">Titres de séjour</a>
+<a href="/fr/domaine-nationalite.html">Nationalité</a>
+<a href="/fr/domaine-travail.html">Droit du travail</a>
+<a href="/fr/domaine-immobilier.html">Droit immobilier</a>
+<a href="/fr/domaine-affaires.html">Droit des affaires</a>
+<a href="/fr/domaine-consommation.html">Droit de la consommation</a>
+<a href="/fr/domaine-penal.html">Droit pénal</a>
+<a href="/fr/domaine-admninistratif.html">Droit administratif</a>
+<a href="/fr/domaine-fiscal.html">Droit fiscal</a>
 </div>
 
 
@@ -286,15 +286,15 @@ Français
 <div class="contenu">
 <a href="/fr/domaine-famille.html">Droit de la famille</a>
 <a href="/fr/domaine-visas.html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href="/fr/domaine-titresejour.html">Titres de séjour</a>
+<a href="/fr/domaine-nationalite.html">Nationalité</a>
+<a href="/fr/domaine-travail.html">Droit du travail</a>
+<a href="/fr/domaine-immobilier.html">Droit immobilier</a>
+<a href="/fr/domaine-affaires.html">Droit des affaires</a>
+<a href="/fr/domaine-consommation.html">Droit de la consommation</a>
+<a href="/fr/domaine-penal.html">Droit pénal</a>
+<a href="/fr/domaine-admninistratif.html">Droit administratif</a>
+<a href="/fr/domaine-fiscal.html">Droit fiscal</a>
 </div>
 
 
