@@ -23,17 +23,17 @@ if (url.includes("alexey-zharkov.com/ru")) {
 <img id="fermerbtn" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iMTQwIgogICBoZWlnaHQ9IjE0MCIKICAgdmlld0JveD0iMCAwIDM3LjA0MTY2NiAzNy4wNDE2NjciCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzEiCiAgIGlua3NjYXBlOnZlcnNpb249IjEuMy4yICgwOTFlMjBlLCAyMDIzLTExLTI1KSIKICAgc29kaXBvZGk6ZG9jbmFtZT0iZmVybWVyYnRuLnN2ZyIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9Im5hbWVkdmlldzEiCiAgICAgcGFnZWNvbG9yPSIjNTA1MDUwIgogICAgIGJvcmRlcmNvbG9yPSIjZWVlZWVlIgogICAgIGJvcmRlcm9wYWNpdHk9IjEiCiAgICAgaW5rc2NhcGU6c2hvd3BhZ2VzaGFkb3c9IjAiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiCiAgICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgICBpbmtzY2FwZTpkZXNrY29sb3I9IiM1MDUwNTAiCiAgICAgaW5rc2NhcGU6ZG9jdW1lbnQtdW5pdHM9Im1tIgogICAgIGlua3NjYXBlOnpvb209IjMuMzM4OTExNSIKICAgICBpbmtzY2FwZTpjeD0iNjkuNDgzNzIzIgogICAgIGlua3NjYXBlOmN5PSI2NS4yOTA3NCIKICAgICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9IjE0NDAiCiAgICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iODQ3IgogICAgIGlua3NjYXBlOndpbmRvdy14PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy15PSIyNSIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIwIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9ImxheWVyMSIgLz4KICA8ZGVmcwogICAgIGlkPSJkZWZzMSIgLz4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJDYWxxdWUgMSIKICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIgogICAgIGlkPSJsYXllcjEiPgogICAgPGcKICAgICAgIGlkPSJnMSIKICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xLjAzOTkzMzEsLTEuMzA0MjcxMikiPgogICAgICA8cmVjdAogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjEzOTQ0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtwYWludC1vcmRlcjpzdHJva2UgZmlsbCBtYXJrZXJzIgogICAgICAgICBpZD0icmVjdDEiCiAgICAgICAgIHdpZHRoPSI0NS41MjAxMjYiCiAgICAgICAgIGhlaWdodD0iNi40MzU4MTEiCiAgICAgICAgIHg9IjUuMDYyNTk3MyIKICAgICAgICAgeT0iLTMuMDMwOTg5OSIKICAgICAgICAgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIiAvPgogICAgICA8cmVjdAogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjEzOTQ0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtwYWludC1vcmRlcjpzdHJva2UgZmlsbCBtYXJrZXJzIgogICAgICAgICBpZD0icmVjdDEtNyIKICAgICAgICAgd2lkdGg9IjQ1LjUyMDEyNiIKICAgICAgICAgaGVpZ2h0PSI2LjQzNTgxMSIKICAgICAgICAgeD0iLTIyLjk0Njk3OCIKICAgICAgICAgeT0iMjQuNjA0NzU1IgogICAgICAgICB0cmFuc2Zvcm09InJvdGF0ZSgtNDUpIiAvPgogICAgPC9nPgogIDwvZz4KPC9zdmc+Cg==" />
 
 <div id="sousmenuun" class="sousmenu">
-<a href=".html">Droit de la famille</a>
-<a href=".html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href=".html">Семейное право</a>
+<a href=".html">Визы</a>
+<a href=".html">Виды на жительство</a>
+<a href=".html">Гражданство</a>
+<a href=".html">Трудовое право</a>
+<a href=".html">Недвижимое имущество</a>
+<a href=".html">Коммерческое право</a>
+<a href=".html">Потребительское право</a>
+<a href=".html">Уголовное право</a>
+<a href=".html">Административное право</a>
+<a href=".html">Налоговое право</a>
 </div>
 
 
@@ -53,17 +53,17 @@ if (url.includes("alexey-zharkov.com/ru")) {
 <img class="image cacher" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4KCjxzdmcKICAgdmVyc2lvbj0iMS4xIgogICBpZD0iQ2FwYV8xIgogICB4PSIwcHgiCiAgIHk9IjBweCIKICAgd2lkdGg9IjQ1MS44NDdweCIKICAgaGVpZ2h0PSI0NTEuODQ3cHgiCiAgIHZpZXdCb3g9IjAgMCA0NTEuODQ3IDQ1MS44NDciCiAgIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQ1MS44NDcgNDUxLjg0NzsiCiAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImFycm93LXVwLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4zLjIgKDA5MWUyMGUsIDIwMjMtMTEtMjUpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgIGlkPSJkZWZzMTYiIC8+PHNvZGlwb2RpOm5hbWVkdmlldwogICBpZD0ibmFtZWR2aWV3MTYiCiAgIHBhZ2Vjb2xvcj0iIzUwNTA1MCIKICAgYm9yZGVyY29sb3I9IiNlZWVlZWUiCiAgIGJvcmRlcm9wYWNpdHk9IjEiCiAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSIwIgogICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMCIKICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjNTA1MDUwIgogICBpbmtzY2FwZTp6b29tPSIwLjUyMjMwMDcxIgogICBpbmtzY2FwZTpjeD0iMjI1LjkyMzQ5IgogICBpbmtzY2FwZTpjeT0iMjI1LjkyMzQ5IgogICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9IjE0NDAiCiAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjQ0OSIKICAgaW5rc2NhcGU6d2luZG93LXg9IjAiCiAgIGlua3NjYXBlOndpbmRvdy15PSIyNSIKICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMCIKICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0iQ2FwYV8xIiAvPgo8ZwogICBpZD0iZzEiCiAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiCiAgIHRyYW5zZm9ybT0icm90YXRlKDE4MCwyMjUuOTIzNzUsMjI1LjkyMzI1KSI+Cgk8cGF0aAogICBkPSJtIDIyNS45MjMsMzU0LjcwNiBjIC04LjA5OCwwIC0xNi4xOTUsLTMuMDkyIC0yMi4zNjksLTkuMjYzIEwgOS4yNywxNTEuMTU3IGMgLTEyLjM1OSwtMTIuMzU5IC0xMi4zNTksLTMyLjM5NyAwLC00NC43NTEgMTIuMzU0LC0xMi4zNTQgMzIuMzg4LC0xMi4zNTQgNDQuNzQ4LDAgTCAyMjUuOTIzLDI3OC4zMjEgMzk3LjgyOSwxMDYuNDEyIGMgMTIuMzU5LC0xMi4zNTQgMzIuMzkxLC0xMi4zNTQgNDQuNzQ0LDAgMTIuMzY1LDEyLjM1NCAxMi4zNjUsMzIuMzkyIDAsNDQuNzUxIEwgMjQ4LjI5MiwzNDUuNDQ5IGMgLTYuMTc3LDYuMTcyIC0xNC4yNzQsOS4yNTcgLTIyLjM2OSw5LjI1NyB6IgogICBpZD0icGF0aDEiCiAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8+CjwvZz4KPGcKICAgaWQ9ImcyIj4KPC9nPgo8ZwogICBpZD0iZzMiPgo8L2c+CjxnCiAgIGlkPSJnNCI+CjwvZz4KPGcKICAgaWQ9Imc1Ij4KPC9nPgo8ZwogICBpZD0iZzYiPgo8L2c+CjxnCiAgIGlkPSJnNyI+CjwvZz4KPGcKICAgaWQ9Imc4Ij4KPC9nPgo8ZwogICBpZD0iZzkiPgo8L2c+CjxnCiAgIGlkPSJnMTAiPgo8L2c+CjxnCiAgIGlkPSJnMTEiPgo8L2c+CjxnCiAgIGlkPSJnMTIiPgo8L2c+CjxnCiAgIGlkPSJnMTMiPgo8L2c+CjxnCiAgIGlkPSJnMTQiPgo8L2c+CjxnCiAgIGlkPSJnMTUiPgo8L2c+CjxnCiAgIGlkPSJnMTYiPgo8L2c+Cjwvc3ZnPgo=" />
 </div>
 <div class="contenu">
-<a href=".html">Droit de la famille</a>
-<a href=".html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href=".html">Семейное право</a>
+<a href=".html">Визы</a>
+<a href=".html">Виды на жительство</a>
+<a href=".html">Гражданство</a>
+<a href=".html">Трудовое право</a>
+<a href=".html">Недвижимое имущество</a>
+<a href=".html">Коммерческое право</a>
+<a href=".html">Потребительское право</a>
+<a href=".html">Уголовное право</a>
+<a href=".html">Административное право</a>
+<a href=".html">Налоговое право</a>
 </div>
 
 
@@ -99,8 +99,6 @@ if (url.includes("alexey-zharkov.com/ru")) {
 
 footer.innerHTML +=
 `
-
-<img src="/img/bottom.svg">
 
 <div class="bloc">
 
@@ -139,17 +137,17 @@ English
 <img id="fermerbtn" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iMTQwIgogICBoZWlnaHQ9IjE0MCIKICAgdmlld0JveD0iMCAwIDM3LjA0MTY2NiAzNy4wNDE2NjciCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzEiCiAgIGlua3NjYXBlOnZlcnNpb249IjEuMy4yICgwOTFlMjBlLCAyMDIzLTExLTI1KSIKICAgc29kaXBvZGk6ZG9jbmFtZT0iZmVybWVyYnRuLnN2ZyIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8c29kaXBvZGk6bmFtZWR2aWV3CiAgICAgaWQ9Im5hbWVkdmlldzEiCiAgICAgcGFnZWNvbG9yPSIjNTA1MDUwIgogICAgIGJvcmRlcmNvbG9yPSIjZWVlZWVlIgogICAgIGJvcmRlcm9wYWNpdHk9IjEiCiAgICAgaW5rc2NhcGU6c2hvd3BhZ2VzaGFkb3c9IjAiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiCiAgICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgICBpbmtzY2FwZTpkZXNrY29sb3I9IiM1MDUwNTAiCiAgICAgaW5rc2NhcGU6ZG9jdW1lbnQtdW5pdHM9Im1tIgogICAgIGlua3NjYXBlOnpvb209IjMuMzM4OTExNSIKICAgICBpbmtzY2FwZTpjeD0iNjkuNDgzNzIzIgogICAgIGlua3NjYXBlOmN5PSI2NS4yOTA3NCIKICAgICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9IjE0NDAiCiAgICAgaW5rc2NhcGU6d2luZG93LWhlaWdodD0iODQ3IgogICAgIGlua3NjYXBlOndpbmRvdy14PSIwIgogICAgIGlua3NjYXBlOndpbmRvdy15PSIyNSIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIwIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9ImxheWVyMSIgLz4KICA8ZGVmcwogICAgIGlkPSJkZWZzMSIgLz4KICA8ZwogICAgIGlua3NjYXBlOmxhYmVsPSJDYWxxdWUgMSIKICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIgogICAgIGlkPSJsYXllcjEiPgogICAgPGcKICAgICAgIGlkPSJnMSIKICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xLjAzOTkzMzEsLTEuMzA0MjcxMikiPgogICAgICA8cmVjdAogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjEzOTQ0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtwYWludC1vcmRlcjpzdHJva2UgZmlsbCBtYXJrZXJzIgogICAgICAgICBpZD0icmVjdDEiCiAgICAgICAgIHdpZHRoPSI0NS41MjAxMjYiCiAgICAgICAgIGhlaWdodD0iNi40MzU4MTEiCiAgICAgICAgIHg9IjUuMDYyNTk3MyIKICAgICAgICAgeT0iLTMuMDMwOTg5OSIKICAgICAgICAgdHJhbnNmb3JtPSJyb3RhdGUoNDUpIiAvPgogICAgICA8cmVjdAogICAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjEzOTQ0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtwYWludC1vcmRlcjpzdHJva2UgZmlsbCBtYXJrZXJzIgogICAgICAgICBpZD0icmVjdDEtNyIKICAgICAgICAgd2lkdGg9IjQ1LjUyMDEyNiIKICAgICAgICAgaGVpZ2h0PSI2LjQzNTgxMSIKICAgICAgICAgeD0iLTIyLjk0Njk3OCIKICAgICAgICAgeT0iMjQuNjA0NzU1IgogICAgICAgICB0cmFuc2Zvcm09InJvdGF0ZSgtNDUpIiAvPgogICAgPC9nPgogIDwvZz4KPC9zdmc+Cg==" />
 
 <div id="sousmenuun" class="sousmenu">
-<a href=".html">Droit de la famille</a>
+<a href=".html">Family Law</a>
 <a href=".html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href=".html">Residence Permits</a>
+<a href=".html">Citizenship</a>
+<a href=".html">Labor Law</a>
+<a href=".html">Real Estate Law</a>
+<a href=".html">Business Law</a>
+<a href=".html">Consumer Law</a>
+<a href=".html">Criminal Law</a>
+<a href=".html">Administrative Law</a>
+<a href=".html">Tax Law</a>
 </div>
 
 
@@ -169,17 +167,17 @@ English
 <img class="image cacher" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4KCjxzdmcKICAgdmVyc2lvbj0iMS4xIgogICBpZD0iQ2FwYV8xIgogICB4PSIwcHgiCiAgIHk9IjBweCIKICAgd2lkdGg9IjQ1MS44NDdweCIKICAgaGVpZ2h0PSI0NTEuODQ3cHgiCiAgIHZpZXdCb3g9IjAgMCA0NTEuODQ3IDQ1MS44NDciCiAgIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQ1MS44NDcgNDUxLjg0NzsiCiAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImFycm93LXVwLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4zLjIgKDA5MWUyMGUsIDIwMjMtMTEtMjUpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgIGlkPSJkZWZzMTYiIC8+PHNvZGlwb2RpOm5hbWVkdmlldwogICBpZD0ibmFtZWR2aWV3MTYiCiAgIHBhZ2Vjb2xvcj0iIzUwNTA1MCIKICAgYm9yZGVyY29sb3I9IiNlZWVlZWUiCiAgIGJvcmRlcm9wYWNpdHk9IjEiCiAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSIwIgogICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMCIKICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjNTA1MDUwIgogICBpbmtzY2FwZTp6b29tPSIwLjUyMjMwMDcxIgogICBpbmtzY2FwZTpjeD0iMjI1LjkyMzQ5IgogICBpbmtzY2FwZTpjeT0iMjI1LjkyMzQ5IgogICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9IjE0NDAiCiAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjQ0OSIKICAgaW5rc2NhcGU6d2luZG93LXg9IjAiCiAgIGlua3NjYXBlOndpbmRvdy15PSIyNSIKICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMCIKICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0iQ2FwYV8xIiAvPgo8ZwogICBpZD0iZzEiCiAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiCiAgIHRyYW5zZm9ybT0icm90YXRlKDE4MCwyMjUuOTIzNzUsMjI1LjkyMzI1KSI+Cgk8cGF0aAogICBkPSJtIDIyNS45MjMsMzU0LjcwNiBjIC04LjA5OCwwIC0xNi4xOTUsLTMuMDkyIC0yMi4zNjksLTkuMjYzIEwgOS4yNywxNTEuMTU3IGMgLTEyLjM1OSwtMTIuMzU5IC0xMi4zNTksLTMyLjM5NyAwLC00NC43NTEgMTIuMzU0LC0xMi4zNTQgMzIuMzg4LC0xMi4zNTQgNDQuNzQ4LDAgTCAyMjUuOTIzLDI3OC4zMjEgMzk3LjgyOSwxMDYuNDEyIGMgMTIuMzU5LC0xMi4zNTQgMzIuMzkxLC0xMi4zNTQgNDQuNzQ0LDAgMTIuMzY1LDEyLjM1NCAxMi4zNjUsMzIuMzkyIDAsNDQuNzUxIEwgMjQ4LjI5MiwzNDUuNDQ5IGMgLTYuMTc3LDYuMTcyIC0xNC4yNzQsOS4yNTcgLTIyLjM2OSw5LjI1NyB6IgogICBpZD0icGF0aDEiCiAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8+CjwvZz4KPGcKICAgaWQ9ImcyIj4KPC9nPgo8ZwogICBpZD0iZzMiPgo8L2c+CjxnCiAgIGlkPSJnNCI+CjwvZz4KPGcKICAgaWQ9Imc1Ij4KPC9nPgo8ZwogICBpZD0iZzYiPgo8L2c+CjxnCiAgIGlkPSJnNyI+CjwvZz4KPGcKICAgaWQ9Imc4Ij4KPC9nPgo8ZwogICBpZD0iZzkiPgo8L2c+CjxnCiAgIGlkPSJnMTAiPgo8L2c+CjxnCiAgIGlkPSJnMTEiPgo8L2c+CjxnCiAgIGlkPSJnMTIiPgo8L2c+CjxnCiAgIGlkPSJnMTMiPgo8L2c+CjxnCiAgIGlkPSJnMTQiPgo8L2c+CjxnCiAgIGlkPSJnMTUiPgo8L2c+CjxnCiAgIGlkPSJnMTYiPgo8L2c+Cjwvc3ZnPgo=" />
 </div>
 <div class="contenu">
-<a href=".html">Droit de la famille</a>
+<a href=".html">Family Law</a>
 <a href=".html">Visas</a>
-<a href=".html">Titres de séjour</a>
-<a href=".html">Nationalité</a>
-<a href=".html">Droit du travail</a>
-<a href=".html">Droit immobilier</a>
-<a href=".html">Droit des affaires</a>
-<a href=".html">Droit de la consommation</a>
-<a href=".html">Droit pénal</a>
-<a href=".html">Droit administratif</a>
-<a href=".html">Droit fiscal</a>
+<a href=".html">Residence Permits</a>
+<a href=".html">Citizenship</a>
+<a href=".html">Labor Law</a>
+<a href=".html">Real Estate Law</a>
+<a href=".html">Business Law</a>
+<a href=".html">Consumer Law</a>
+<a href=".html">Criminal Law</a>
+<a href=".html">Administrative Law</a>
+<a href=".html">Tax Law</a>
 </div>
 
 
@@ -214,8 +212,6 @@ English
 
 footer.innerHTML +=
 `
-
-<img src="/img/bottom.svg">
 
 <div class="bloc">
 
@@ -329,8 +325,6 @@ Français
 
 footer.innerHTML +=
 `
-
-<!--img src="img/bottom.jpg"-->
 
 <div class="bloc">
 
