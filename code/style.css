@@ -116,7 +116,7 @@ select {cursor:pointer;}
 
 
 /* accueil ------------- */
-#accueil { background-image: url("../img/bottom.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; }
+#accueil { background-image: url("/img/bottom.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; }
 #accueil .conteneurun { width:100%; padding:50px 0; text-align:center; vertical-align:top; }
 #accueil .conteneurdeux {width:1200px; margin-left:auto; margin-right:auto;}
 #accueil .dossier {background:var(--yellow2);padding-top:10px; margin:30px; display: inline-block; clip-path: polygon(0% 3%, 3% 0%, 30% 0%, 40% 8%, 97% 8%, 100% 11%, 100% 97%, 97% 100%, 3% 100%, 0% 97% );}
@@ -125,6 +125,7 @@ select {cursor:pointer;}
 #accueil .domaine:hover {background:var(--blue); cursor:pointer;}
 #accueil .material-symbols-outlined {font-size:35px; margin-top:40px;  font-variation-settings:'FILL' 1,'wght' 400,'GRAD' 0,'opsz' 24; }
 #accueil .texte {margin:15px; font-size:16px; font-weight:700;  }
+#accueil {text-decoration:none;}
 @media screen and (max-width: 1200px) { 
   #accueil .conteneurdeux {width:100%;}
   #accueil .dossier {margin:20px;}
