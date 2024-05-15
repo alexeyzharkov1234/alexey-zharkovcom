@@ -330,7 +330,7 @@ Français
 footer.innerHTML +=
 `
 
-<img src="/img/bottom.svg">
+<!--img src="img/bottom.jpg"-->
 
 <div class="bloc">
 
