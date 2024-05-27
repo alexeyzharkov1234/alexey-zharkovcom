@@ -102,10 +102,10 @@ footer.innerHTML +=
 
 <div class="bloc">
 
-<a href="/ru/legal.html">Правовая информация</a>
-<a href="/ru/cgv.html">Общие условия продажи</a>
-<a href="/ru/privacy.html">Конфиденциальность</a>
-<a href="/ru/contact.html">Контакт</a>
+<a href="/fr/legal.html">Правовая информация</a>
+<a href="/fr/cgv.html">Общие условия продажи</a>
+<a href="/fr/privacy.html">Конфиденциальность</a>
+<a href="/fr/contact.html">Контакт</a>
 <a href="https://watermelon.fr">Разработано Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
@@ -215,10 +215,10 @@ footer.innerHTML +=
 
 <div class="bloc">
 
-<a href="/en/legal.html">Legal Mentions</a>
-<a href="/en/cgv.html">General Terms and Conditions of Sale</a>
-<a href="/en/privacy.html">Privacy Policy</a>
-<a href="/en/contact.html">Contact Us</a>
+<a href="/fr/legal.html">Legal Mentions</a>
+<a href="/fr/cgv.html">General Terms and Conditions of Sale</a>
+<a href="/fr/privacy.html">Privacy Policy</a>
+<a href="/fr/contact.html">Contact Us</a>
 <a href="https://watermelon.fr">Developed by Watermelon</a>
 
 <div id="copyright">© <span id="annee"></span> AZ Gestion</div>
