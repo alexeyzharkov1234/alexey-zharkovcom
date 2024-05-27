@@ -115,7 +115,7 @@ select {cursor:pointer;}
 
 /* accueil ----------------------------------------------------------------- */
 #accueil {width:100%;  font-size: 0; background:rgb(25,26,30);}
-#accueil .domaine {width:20%; height:200px;  display:inline-block; text-align:center; text-shadow: 0 0 2px rgba(0,0,0,1); }
+#accueil .domaine {width:20%; height:200px;  display:inline-block; text-align:center; }
 #accueil .domaine:hover {/*box-shadow: inset 0 0 0 1px white;*/ background:rgb(20,20,20); }
 .couleur1 {background:rgb(33,47,70);}
 .couleur2 {background:rgb(25,26,30);}
