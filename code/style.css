@@ -148,7 +148,7 @@ select {cursor:pointer;}
 
 /* footer ------------------------------------------------ */
 #footer img {width:100%; }
-#footer .bloc { width:100%; text-align:center; padding:20px 0; background:rgb(25,26,30); font-size:14px; }
+#footer .bloc { width:100%; text-align:center; padding:20px 0; background:black; font-size:14px; }
 #footer .bloc a { padding: 0 20px; font-size:14px; }
 #footer .bloc #copyright { display:inline-block; padding: 0 20px;  }
 
