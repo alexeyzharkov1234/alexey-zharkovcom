@@ -444,3 +444,9 @@ document.querySelectorAll('.btn').forEach(function(btn) {
 });
 
 */
+
+/* Watermelon Analytics ------------------------------------------ */
+document.addEventListener("DOMContentLoaded", function() {
+  var referrer = document.referrer;
+  console.log("Le visiteur vient de : " + referrer);
+});
