@@ -28,7 +28,7 @@ if (url.includes("alexey-zharkov.com/ru")) {
 <a href="/ru/domaine-titresejour.html">Виды на жительство</a>
 <a href="/ru/domaine-nationalite.html">Гражданство</a>
 <a href="/ru/domaine-travail.html">Трудовое право</a>
-<a href="/ru/domaine-immobilier.html">Недвижимое право</a>
+<a href="/ru/domaine-immobilier.html">Недвижимость</a>
 <a href="/ru/domaine-affaires.html">Коммерческое право</a>
 <a href="/ru/domaine-consommation.html">Потребительское право</a>
 <a href="/ru/domaine-penal.html">Уголовное право</a>
@@ -58,7 +58,7 @@ if (url.includes("alexey-zharkov.com/ru")) {
 <a href="/ru/domaine-titresejour.html">Виды на жительство</a>
 <a href="/ru/domaine-nationalite.html">Гражданство</a>
 <a href="/ru/domaine-travail.html">Трудовое право</a>
-<a href="/ru/domaine-immobilier.html">Недвижимое право</a>
+<a href="/ru/domaine-immobilier.html">Недвижимость</a>
 <a href="/ru/domaine-affaires.html">Коммерческое право</a>
 <a href="/ru/domaine-consommation.html">Потребительское право</a>
 <a href="/ru/domaine-penal.html">Уголовное право</a>
