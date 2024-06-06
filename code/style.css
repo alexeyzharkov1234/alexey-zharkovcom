@@ -25,7 +25,7 @@ a:hover {cursor:pointer !important;}
 select {cursor:pointer;}
 ::placeholder {color: grey; }
 
-.btn { background:var(--yellow); border-bottom:solid 4px var(--yellow2); display:inline-block; padding:15px 25px 15px 25px; line-height:130%; font-size:15px; color:black; font-weight:600; vertical-align:middle; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
+.btn { background:var(--yellow); border-bottom:solid 5px var(--yellow2); display:inline-block; padding:15px 25px 15px 25px; line-height:130%; font-size:15px; color:black; font-weight:600; vertical-align:middle; /* box-shadow: inset 0 0 20px rgba(0,0,0,0.2); */ }
 /* .btn .material-symbols-outlined {vertical-align:middle; margin-left:20px; font-size:20px; font-variation-settings:'FILL' 0,'wght' 600,'GRAD' 0,'opsz' 24} */
 .btn img {  padding:0; display:inline-block;  width:8px; margin:0 0 2.5px 20px; vertical-align:middle; }
 .btn:hover {background:var(--yellow2); cursor:pointer;}
@@ -72,7 +72,7 @@ select {cursor:pointer;}
 
 
 /* logo --------------------------------------------------- */
-#logo {width:120px; position:absolute; top:0; left:10px; z-index:50; padding:10px; background:black; margin:10px;  }
+#logo {width:120px; position:absolute; top:0; left:10px; z-index:50; padding:10px 15px; background:black; margin:10px; border-radius:8px;  }
 #logo img {width:100%;   }
 @media screen and (max-width: 950px) {
   #logo {width:80px; top:0;}
@@ -80,16 +80,32 @@ select {cursor:pointer;}
 
 
 /* page ------------------------------------------------- */
-.page .intro {margin:100px 0 70px 0; text-align:center;}
+.page .intro {margin:100px 0 85px 0; text-align:center;}
 .page .intro .blocgauche {text-align:left; display:inline-block; width:500px; vertical-align:top; margin:0 30px; }
 .page .intro .titre { font-size:65px; font-weight:700; margin:0 0 40px 0;  text-shadow: 0 0 10px rgba(0,0,0,0.5);  } 
 .page .intro .texte { color:black; font-size:17px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
 .page .intro .cgv { color:black; font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
 .page .intro .cgv a { text-decoration:underline; color:black; }
-.page .intro .image { width:500px; vertical-align:top; margin:20px 40px 0 40px;  }
-.page .intro .btn {margin:10px 20px 10px 0; }
+.page .intro .image { position:relative; width:500px; height:480px; margin:20px 40px 0 40px; display:inline-block; }
+.page .intro .image .gradient {
+  position:absolute; top:0; left:30px; width:500px; height:490px; border-radius:12px; 
+  background:
+    radial-gradient(ellipse at top     left, rgb(33,47,70)  15% , transparent 60%), 
+    radial-gradient(ellipse at bottom  left, rgb(25,26,30)  15% , transparent 60%),
+    radial-gradient(ellipse at top    right, rgb(30, 33, 44) 15% , transparent 60%),
+    radial-gradient(ellipse at bottom right, black  15% , transparent 60%)
+  /*
+  background:
+    radial-gradient(ellipse at top     left, rgb(236, 249, 87)  15% , transparent 60%), 
+    radial-gradient(ellipse at bottom  left, rgb(247, 69, 204)  15% , transparent 60%),
+    radial-gradient(ellipse at top    right, rgb(121, 238, 196) 15% , transparent 60%),
+    radial-gradient(ellipse at bottom right, rgb(81, 82, 213)   15% , transparent 60%)
+    */
+}
+.page .intro .image .photo { position:absolute; top:30px; left:0; width:500px; border-radius:8px;  }
+.page .intro .btn {margin:10px 20px 10px 0; border-radius:8px; }
 
-.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 4px rgba(0,0,0,0.1); color:black; padding:15px 30px; line-height:145%; }
+.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 5px rgba(0,0,0,0.1); color:black; padding:15px 30px; line-height:145%; border-radius:8px;  }
 .page .intro .infos div {margin:15px 0; }
 .page .intro .infos a {color:black;}
 
