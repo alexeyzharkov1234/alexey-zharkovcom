@@ -86,7 +86,7 @@ select {cursor:pointer;}
 .page .intro .texte { color:black; font-size:17px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
 .page .intro .cgv { color:black; font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
 .page .intro .cgv a { text-decoration:underline; color:black; }
-.page .intro .image { position:relative; width:500px; height:500px; margin:20px 40px 0 40px; display:inline-block; }
+.page .intro .image { position:relative; width:500px; height:500px; margin:0 40px 0 40px; display:inline-block; }
 .page .intro .image .gradient {
   position:absolute; top:0; left:30px; width:100%; height:100%; border-radius:12px; 
   background:

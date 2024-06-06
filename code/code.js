@@ -450,3 +450,29 @@ document.addEventListener("DOMContentLoaded", function() {
   var referrer = document.referrer;
   console.log("Le visiteur vient de : " + referrer);
 });
+
+
+/* titre -------------------------------------------------------------- */
+// Sélection de l'élément 'titre' qui est à l'intérieur des classes 'intro' et 'page'
+const titre = document.querySelector('.page .intro .titre');
+// Prendre le texte directement de l'élément HTML
+const texte = titre.innerHTML;
+// Nettoyer le contenu initial de l'élément pour préparer l'affichage lettre par lettre
+titre.innerHTML = '';
+// La vitesse à laquelle les lettres sont ajoutées (en millisecondes)
+const vitesse = 50; // 100 ms entre chaque lettre
+let i = 0; // Index pour suivre la position dans la chaîne de caractères
+
+function afficherLettreParLettre() {
+  if (i < texte.length) {
+    // Ajouter la lettre actuelle à l'élément 'titre'
+    titre.innerHTML += texte.charAt(i);
+    i++; // Passer à la lettre suivante
+  } else {
+    // Arrêter le setInterval une fois tout le texte affiché
+    clearInterval(interval);
+  }
+}
+
+// Démarrer l'intervalle pour exécuter la fonction afficherLettreParLettre
+const interval = setInterval(afficherLettreParLettre, vitesse);
