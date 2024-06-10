@@ -145,7 +145,7 @@ select {cursor:pointer;}
 .couleur3 {background:rgb(30, 33, 44);}
 .couleur4 {background:black;}
 .couleur5 {background:rgb(20,20,20);}
-#accueil .material-symbols-outlined {font-size:35px; margin-top:65px; margin-bottom:10px;  font-variation-settings:'FILL' 0,'wght' 300,'GRAD' 0,'opsz' 24; }
+#accueil .material-symbols-outlined {font-size:35px; margin-top:65px; margin-bottom:10px;  font-variation-settings:'FILL' 1,'wght' 300,'GRAD' 0,'opsz' 24; }
 #accueil .texte {font-size:16px; margin: 0 10px; font-weight:700;  }
 @media screen and (max-width: 1200px) {#accueil .domaine {width:33.33333333333333%;}}
 @media screen and (max-width: 900px) {#accueil .domaine {width:50%;}}
