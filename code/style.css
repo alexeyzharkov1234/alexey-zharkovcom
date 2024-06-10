@@ -201,4 +201,4 @@ select {cursor:pointer;}
 
 
   /* google map ----------------------------------------------- */
-  #googlemap {width:100%; margin:10px 0;}
+  #googlemap {width:100%; margin:10px 0; border-radius: 8px; }
