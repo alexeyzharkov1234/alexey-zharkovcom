@@ -82,19 +82,12 @@ select {cursor:pointer;}
 /* page ------------------------------------------------- */
 .page .intro {margin:100px 0 85px 0; text-align:center;}
 .page .intro .blocgauche {text-align:left; display:inline-block; width:500px; vertical-align:top; margin:0 30px; }
-.page .intro .titre { color:black; font-size:65px; font-weight:700; margin:0 0 40px 0;  /* text-shadow: 0 0 10px rgba(0,0,0,0.5);*/  } 
+.page .intro .titre { font-size:65px; font-weight:700; margin:0 0 40px 0;  text-shadow: 0 0 10px rgba(0,0,0,0.2);  } 
 .page .intro .texte { color:black; font-size:17px; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
 .page .intro .cgv { color:black; font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
 .page .intro .cgv a { text-decoration:underline; color:black; }
 .page .intro .image { position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
-.page .intro .image .gradient {
-  position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; 
-  background:
-  radial-gradient(ellipse at 0% 0%, rgb(63, 63, 63) 0% , transparent 50%), 
-  radial-gradient(ellipse at 100% 0%, rgb(28, 28, 28) 0% , transparent 50%),
-  radial-gradient(ellipse at 0% 100%, rgb(30, 30, 30) 0% , transparent 50%),
-  radial-gradient(ellipse at 100% 100%, rgb(0, 0, 0) 0% , rgb(54, 54, 54) 50%)
-}
+.page .intro .image .gradient {position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(30,30,30));}
 .page .intro .image .photo { position:absolute; top:30px; left:0; width:90%; border-radius:4px; /*box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);*/  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
