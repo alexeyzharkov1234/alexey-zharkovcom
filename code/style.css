@@ -87,7 +87,7 @@ select {cursor:pointer;}
 .page .intro .cgv { color:black; font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
 .page .intro .cgv a { text-decoration:underline; color:black; }
 .page .intro .image { position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
-.page .intro .image .gradient {position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(30,30,30));}
+.page .intro .image .gradient {position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(50,50,50));}
 .page .intro .image .photo { position:absolute; top:30px; left:0; width:90%; border-radius:4px; /*box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);*/  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
