@@ -101,7 +101,7 @@ select {cursor:pointer;}
 .page .intro .cgv a { text-decoration:underline; }
 /* .page .intro .image { display:none; position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
  .page .intro .image .gradient {display:none; position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(50,50,50));} */
-.page .intro .photo { position:relative; width:400px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
+.page .intro .photo { position:relative; width:450px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
 .page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 5px rgba(0,0,0,0.1); padding:15px 30px; line-height:145%; border-radius:4px;  }
