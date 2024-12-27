@@ -68,7 +68,7 @@ select {cursor:pointer;}
 #sousmenuun a {width:200px; text-align:left; display:block; margin: 10px auto;  }
 #sousmenutrois a {width:80px; text-align:left; display:block; margin: 10px auto;  }
 
-#menu, #sousmenu, #sousmenumobile, #sousmenuun, #sousmenudeux, #sousmenutrois {background:var(--navy);}
+#menu, #sousmenu, #sousmenumobile, #sousmenuun, #sousmenudeux, #sousmenutrois {color:white; background:var(--navy);}
 #menu a, #sousmenu a, #sousmenumobile a, #sousmenuun a, #sousmenudeux a, #sousmenutrois a {color:white;}
 
 
