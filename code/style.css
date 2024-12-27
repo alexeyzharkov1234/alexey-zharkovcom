@@ -192,7 +192,7 @@ select {cursor:pointer;}
 
 @media screen and (max-width: 900px) { 
   #texte {width:90%; }
-  #texte .grandtitre {width:90%; font-size:45px; }
+  #texte .grandtitre {width:90%; font-size:35px; }
   }
 
 
