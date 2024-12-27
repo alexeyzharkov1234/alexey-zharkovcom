@@ -101,7 +101,7 @@ select {cursor:pointer;}
 .page .intro .titre { font-size:45px; font-weight:700; margin:0 0 40px 0;  /*text-shadow: 0 0 1px rgba(0,0,0,1);*/  } 
 .page .intro .texte { font-size:17px; font-weight:400; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
 .page .intro .cgv { font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
-.page .intro .cgv a { text-decoration:underline; }
+.page .intro .cgv a { text-decoration:underline; color:var(--navy2); }
 /* .page .intro .image { display:none; position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
  .page .intro .image .gradient {display:none; position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(50,50,50));} */
 .page .intro .photo { position:relative; width:450px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
