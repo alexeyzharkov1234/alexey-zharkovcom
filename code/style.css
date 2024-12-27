@@ -125,7 +125,7 @@ select {cursor:pointer;}
 @media screen and (max-width: 600px) {
   .page {margin:0 20px;}
   .page .intro .blocgauche {width:100%; margin:0; }
-  .page .intro .titre { font-size:45px;  } 
+  .page .intro .titre { font-size:35px;  } 
   .page .intro .photo { width:300px; margin:40px 0; }
   .page .intro .btn {display:block; margin:15px 0; }
   }
