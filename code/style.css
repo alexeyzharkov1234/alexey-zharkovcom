@@ -57,7 +57,7 @@ select {cursor:pointer;}
   }
 
 /* menu ----------------------------------------------------- */
-#menu { position:relative; z-index:1; text-align:right; background:var(--navy); padding-right:10px; font-weight:600; }
+#menu { position:relative; z-index:1; text-align:right; background:var(--navy); padding-right:10px; font-weight:500; }
 #menu .menu {display:inline-block; vertical-align:middle; text-align:center; padding:15px 20px; cursor:pointer; vertical-align:middle; font-size:13px; line-height:100%; line-height:125%;  }
 #menu #globe {width:15px; padding-right:5px; padding-bottom:2px; vertical-align:middle;}
 #menu .sousmenu {position:absolute; top:62px; left:0; width:100%; z-index:3; background:var(--navy);  padding:30px 0; }
@@ -101,7 +101,7 @@ select {cursor:pointer;}
 .page .intro .cgv a { text-decoration:underline; }
 /* .page .intro .image { display:none; position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
  .page .intro .image .gradient {display:none; position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(50,50,50));} */
-.page .intro .photo { position:relative; width:500px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
+.page .intro .photo { position:relative; width:400px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
 .page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 5px rgba(0,0,0,0.1); padding:15px 30px; line-height:145%; border-radius:4px;  }
@@ -178,7 +178,7 @@ select {cursor:pointer;}
 
 /* texte ----------------------------------------------- */
 #texte {width:800px; margin:100px auto; text-align:left; font-size:16px; }
-#texte .grandtitre {font-size:55px;  width:750px; text-align:left; padding:0; margin:0 0 40px 0; line-height:115%; font-weight:700; text-shadow: 0 0 10px rgba(0,0,0,0.5); }
+#texte .grandtitre {font-size:45px;  width:750px; text-align:left; padding:0; margin:0 0 40px 0; line-height:115%; font-weight:700; /*text-shadow: 0 0 10px rgba(0,0,0,0.5);*/ }
 #texte .titre {font-size:30px; font-weight:700; text-align:left; padding:0; margin:50px 0 20px 0;  }
 #texte .texte {padding:0; margin:30px 0; line-height:140%; }
 #texte a {border-bottom:solid 2px white;}
