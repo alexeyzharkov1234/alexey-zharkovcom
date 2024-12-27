@@ -104,7 +104,7 @@ select {cursor:pointer;}
 .page .intro .photo { position:relative; width:450px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
-.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:rgba(0,0,0,0.05); border-left:solid 5px rgba(0,0,0,0.1); padding:15px 30px; line-height:145%; border-radius:4px;  }
+.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:var(--vouleur1); border-left:solid 5px var(--couleur5); padding:15px 30px; line-height:145%; border-radius:4px;  }
 .page .intro .infos div {margin:15px 0; }
 .page .intro .infos a {}
 
