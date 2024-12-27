@@ -68,6 +68,7 @@ select {cursor:pointer;}
 #sousmenuun a {width:200px; text-align:left; display:block; margin: 10px auto;  }
 #sousmenutrois a {width:80px; text-align:left; display:block; margin: 10px auto;  }
 
+#menu, #sousmenu, #sousmenumobile, #sousmenuun, #sousmenudeux, #sousmenutrois {background:var(--navy);}
 #menu a, #sousmenu a, #sousmenumobile a, #sousmenuun a, #sousmenudeux a, #sousmenutrois a {color:white;}
 
 
@@ -106,7 +107,7 @@ select {cursor:pointer;}
 .page .intro .photo { position:relative; width:450px; margin:0 40px 0 40px; display:inline-block; border-radius:4px;  }
 .page .intro .btn {margin:10px 20px 10px 0; border-radius:4px; }
 
-.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:var(--couleur1); border-left:solid 5px var(--couleur5); padding:15px 30px; line-height:145%; border-radius:4px;  }
+.page .intro .infos { text-align:left; margin:40px auto 40px auto; background:var(--couleur3); border-left:solid 2px var(--couleur5); padding:15px 30px; line-height:145%; border-radius:4px;  }
 .page .intro .infos div {margin:15px 0; }
 .page .intro .infos a {}
 
