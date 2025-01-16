@@ -10,8 +10,8 @@ font-family: Georgia, "Times New Roman", Times, serif, -apple-system, BlinkMacSy
 /* variables ------------------------------------------------- */
 :root {
   --noir: rgb(25,25,25);
-  --navy: rgb(10,30,50);
-  --gris: rgb(30,50,70);
+  --navy: rgb(10,20,30);
+  --gris: rgb(30,40,50);
 
 
   --couleur1: rgb(253,253,255);
@@ -27,7 +27,6 @@ font-family: Georgia, "Times New Roman", Times, serif, -apple-system, BlinkMacSy
     --yellow: rgb(255, 128, 0);
     --yellow2: rgb(255, 150, 30);
     --bg: rgb(140, 140, 140);
-    --noir: rgb(20,20,30);
   }
 
 /* global ------------------------------------------------- */
