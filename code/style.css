@@ -11,7 +11,7 @@ font-family: Georgia, "Times New Roman", Times, serif, -apple-system, BlinkMacSy
 :root {
   --noir: rgb(25,25,25);
   --navy: rgb(30,50,80);
-  --gris: rgb(40,60,90);
+  --gris: rgb(35,55,75);
 
 
   --couleur1: rgb(253,253,255);
@@ -57,7 +57,7 @@ select {cursor:pointer;}
   }
 
 /* menu ----------------------------------------------------- */
-#menu { position:relative; z-index:1; text-align:right; background:var(--noir); padding-right:10px; font-weight:500; }
+#menu { position:relative; z-index:1; text-align:right; background:var(--navy); padding-right:10px; font-weight:500; }
 #menu .menu {display:inline-block; vertical-align:middle; text-align:center; padding:15px 20px; cursor:pointer; vertical-align:middle; font-size:13px; line-height:100%; line-height:125%;  }
 #menu #globe {width:15px; padding-right:5px; padding-bottom:2px; vertical-align:middle;}
 #menu .sousmenu {position:absolute; top:62px; left:0; width:100%; z-index:3; background:var(--noir);  padding:30px 0; }
