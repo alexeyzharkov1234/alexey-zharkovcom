@@ -10,8 +10,8 @@ font-family: Georgia, "Times New Roman", Times, serif, -apple-system, BlinkMacSy
 /* variables ------------------------------------------------- */
 :root {
   --noir: rgb(25,25,25);
-  --navy: rgb(30,50,80);
-  --gris: rgb(35,55,75);
+  --navy: rgb(20,40,60);
+  --gris: rgb(30,50,70);
 
 
   --couleur1: rgb(253,253,255);
@@ -32,7 +32,7 @@ font-family: Georgia, "Times New Roman", Times, serif, -apple-system, BlinkMacSy
 
 /* global ------------------------------------------------- */
 :root{background:black;}
-body,html{  background:white;  color:var(--noir); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; scroll-behavior: smooth; margin:0; padding:0; font-size:16px; font-weight:500;   }
+body,html{  background:white;  color:var(--navy); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; scroll-behavior: smooth; margin:0; padding:0; font-size:16px; font-weight:500;   }
 a{color:white; text-decoration:none; cursor:pointer; }
 a:hover {cursor:pointer !important;}
 select {cursor:pointer;}
@@ -60,7 +60,7 @@ select {cursor:pointer;}
 #menu { position:relative; z-index:1; text-align:right; background:var(--navy); padding-right:10px; font-weight:500; }
 #menu .menu {display:inline-block; vertical-align:middle; text-align:center; padding:15px 20px; cursor:pointer; vertical-align:middle; font-size:13px; line-height:100%; line-height:125%;  }
 #menu #globe {width:15px; padding-right:5px; padding-bottom:2px; vertical-align:middle;}
-#menu .sousmenu {position:absolute; top:62px; left:0; width:100%; z-index:3; background:var(--noir);  padding:30px 0; }
+#menu .sousmenu {position:absolute; top:62px; left:0; width:100%; z-index:3; background:var(--navy);  padding:30px 0; }
 
 #menubtn, #fermerbtn {display:none; height:18px; vertical-align:middle;}
 #sousmenumobile {display:none;}
@@ -68,7 +68,7 @@ select {cursor:pointer;}
 #sousmenuun a {width:200px; text-align:left; display:block; margin: 10px auto;  }
 #sousmenutrois a {width:80px; text-align:left; display:block; margin: 10px auto;  }
 
-#menu, #sousmenu, #sousmenumobile, #sousmenuun, #sousmenudeux, #sousmenutrois {color:white; background:var(--noir);}
+#menu, #sousmenu, #sousmenumobile, #sousmenuun, #sousmenudeux, #sousmenutrois {color:white; background:var(--navy);}
 #menu a, #sousmenu a, #sousmenumobile a, #sousmenuun a, #sousmenudeux a, #sousmenutrois a {color:white;}
 
 
@@ -88,7 +88,7 @@ select {cursor:pointer;}
 
 
 /* logo --------------------------------------------------- */
-#logo {width:120px; position:absolute; top:0; left:10px; z-index:50; padding:10px 15px; background:var(--noir); margin:10px; border-radius:5px;  }
+#logo {width:120px; position:absolute; top:0; left:10px; z-index:50; padding:10px 15px; background:var(--navy); margin:10px; border-radius:5px;  }
 #logo img {width:100%;   }
 @media screen and (max-width: 950px) {
   #logo {width:80px; top:0;}
@@ -101,7 +101,7 @@ select {cursor:pointer;}
 .page .intro .titre { font-size:45px; font-weight:700; margin:0 0 40px 0;  /*text-shadow: 0 0 1px rgba(0,0,0,1);*/  } 
 .page .intro .texte { font-size:17px; font-weight:400; line-height:140%; margin:40px auto 40px auto;  text-align:left; }
 .page .intro .cgv { font-size:12px; font-weight:600; line-height:140%; margin:10px auto 20px auto;  }
-.page .intro .cgv a { text-decoration:underline; color:var(--noir); }
+.page .intro .cgv a { text-decoration:underline; color:var(--navy); }
 /* .page .intro .image { display:none; position:relative; width:500px; height:470px; margin:0 40px 0 40px; display:inline-block; }
  .page .intro .image .gradient {display:none; position:absolute; top:0; left:10%; width:90%; height:100%; border-radius:4px; background: linear-gradient(45deg, black, rgb(50,50,50));} */
 .page .intro .photo { position:relative; width:450px; margin:0 40px 0 40px; display:inline-block; border-radius:5px;  }
@@ -109,7 +109,7 @@ select {cursor:pointer;}
 
 .page .intro .infos { text-align:left; margin:40px auto 40px auto; background:var(--couleur3); border-left:solid 5px var(--couleur5); padding:15px 30px; line-height:145%; border-radius:5px;  }
 .page .intro .infos div {margin:15px 0; }
-.page .intro .infos a {color:var(--noir);}
+.page .intro .infos a {color:var(--navy);}
 
 .page .intro table { width:100%; margin:5px 0;}
 .page .intro table th {text-align:left; padding:7px 15px 7px 0;}
@@ -140,8 +140,8 @@ select {cursor:pointer;}
 .couleur3 {background:var(--couleur3);}
 .couleur4 {background:var(--couleur4);}
 .couleur5 {background:var(--couleur5);}
-#accueil .material-symbols-outlined {color:var(--noir); font-size:32px; margin-top:65px; margin-bottom:10px;  font-variation-settings:'FILL' 1,'wght' 300,'GRAD' 0,'opsz' 24; }
-#accueil .texte {color:var(--noir); font-size:17px; margin: 0 10px; font-weight:500;  }
+#accueil .material-symbols-outlined {color:var(--navy); font-size:32px; margin-top:65px; margin-bottom:10px;  font-variation-settings:'FILL' 1,'wght' 300,'GRAD' 0,'opsz' 24; }
+#accueil .texte {color:var(--navy); font-size:17px; margin: 0 10px; font-weight:500;  }
 @media screen and (max-width: 1200px) {#accueil .domaine {width:33.33333333333333%;}}
 @media screen and (max-width: 900px) {#accueil .domaine {width:50%;}}
 
@@ -166,7 +166,7 @@ select {cursor:pointer;}
 /* footer ------------------------------------------------ */
 #footer {color:white;}
 #footer img {width:100%; }
-#footer .bloc { width:100%; text-align:center; padding:20px 0; background:var(--noir); font-size:14px; }
+#footer .bloc { width:100%; text-align:center; padding:20px 0; background:var(--navy); font-size:14px; }
 #footer .bloc a { padding: 0 20px; font-size:14px; }
 #footer .bloc #copyright { display:inline-block; padding: 0 20px;  }
 
